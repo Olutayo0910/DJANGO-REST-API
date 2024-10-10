@@ -57,7 +57,7 @@ Before running this project, ensure that you have the following installed on you
 - **Description**: Creates a new product.
 
 #### Request Body (example):
-```json
+```bash
 {
   "name": "Product Name",
   "description": "Product Description",
