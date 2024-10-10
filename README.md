@@ -96,8 +96,9 @@ Before running this project, ensure that you have the following installed on you
 ## Running Tests
 To run tests for this project:
 
-```bash
-python manage.py test
+    ```bash
+    python manage.py test
+    ```
 
 ## Author
 [Olutayo Ogunlade](https://www.github.com/Olutayo0910)
