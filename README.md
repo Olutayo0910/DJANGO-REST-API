@@ -100,4 +100,4 @@ To run tests for this project:
 python manage.py test
 
 ## Author
-[Olutayo Ogunlade](https://github.com/Olutayo0910)
+[Olutayo Ogunlade](https://www.github.com/Olutayo0910)
