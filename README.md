@@ -56,14 +56,6 @@ Before running this project, ensure that you have the following installed on you
 - **Method**: `POST`
 - **Description**: Creates a new product.
 
-#### Request Body (example):
-```bash
-{
-  "name": "Product Name",
-  "description": "Product Description",
-  "price": 100.00
-}
-
 ### Retrieve a Product
 - **URL**: `/products/<pk>/`
 - **Method**: `GET`
